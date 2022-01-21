@@ -1,3 +1,3 @@
-mod1
+#/bin/bash
 set -x
 sleep 20
